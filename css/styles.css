@@ -24,7 +24,9 @@ nav a:hover{
 	color: tomato;
 }
 section{
+	float: left;
 	height: auto;
+	margin: 0.5em 0 0.5em 0;
 	width: 60%;
 }
 article{
@@ -35,4 +37,11 @@ article{
 p{
 	text-align: justify;
 }
-
+aside{
+	background-color: #F7F7F7;
+	float: left;
+	height: auto;
+	margin-top: 0.5em;
+	padding: 1em;
+	width: 36%;
+}
