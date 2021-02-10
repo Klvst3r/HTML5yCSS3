@@ -45,3 +45,14 @@ aside{
 	padding: 1em;
 	width: 36%;
 }
+footer{
+	background-color: steelblue;
+	bottom: 0;
+	float: left;
+	position: fixed;
+	width: 100%;
+}
+footer {
+	color: #FFF;
+	font-size: 0.8em;
+}
